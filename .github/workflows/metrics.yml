@@ -73,7 +73,7 @@ jobs:
           config_timezone: Asia/Jakarta
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: Pashupati, PashupatiController, genisom_l1w_ros2, rail_inspection_ws, esp32-px4-actuator-controller, ros2-humble-devbox
+          plugin_repositories_featured: Pashupati
 
       - name: habits
         if: env.HAS_TOKEN == 'true'

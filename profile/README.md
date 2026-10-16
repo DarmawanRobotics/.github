@@ -17,14 +17,7 @@ controllers and on-robot AI perception, built and run in Indonesia.**
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Pashupati](https://github.com/DarmawanRobotics/Pashupati)** | Autonomous patrol and inspection stack for quadruped robots: LiDAR teach and repeat, obstacle avoidance, on-robot AI inspection, people counting; commanded from [NETRA](https://github.com/DarmawanWeb/Netra) | ROS 2 Humble, Python, C++ |
-| **[PashupatiController](https://github.com/DarmawanRobotics/PashupatiController)** | Handheld controller for Pashupati robots: drive, watch the camera over WebRTC, teach routes and run AI inspection from a Retroid Pocket or any Android device | Flutter, Dart |
-| **[genisom_l1w_ros2](https://github.com/DarmawanRobotics/genisom_l1w_ros2)** | Driver, URDF and bringup for the ZSBot Genisom L1W wheel-legged quadruped with a Livox MID-360 and a RealSense D435i | ROS 2 Humble, C++ |
-| **[rail_inspection_ws](https://github.com/DarmawanRobotics/rail_inspection_ws)** | Rail-bound AGV for track, cable and tunnel inspection | ROS 2, C++, Docker |
-| **[esp32-px4-actuator-controller](https://github.com/DarmawanRobotics/esp32-px4-actuator-controller)** | Closed-loop brushed-motor speed controller for the ESP32-C3: PX4 PWM input, PID, encoder feedback, Wi-Fi tuning | C, ESP32-C3 |
-| **[ros2-humble-devbox](https://github.com/DarmawanRobotics/ros2-humble-devbox)** | Template: a full ROS 2 Humble development environment in Docker, GUI tools included, from any OS | Docker, Shell |
-| **Drivers and tools** | [extreme3dpro_driver](https://github.com/DarmawanRobotics/extreme3dpro_driver), [rtsp_image_publisher](https://github.com/DarmawanRobotics/rtsp_image_publisher), [unipod_driver](https://github.com/DarmawanRobotics/unipod_driver), [molly-dashboard](https://github.com/DarmawanRobotics/molly-dashboard), [hotdog_ws](https://github.com/DarmawanRobotics/hotdog_ws) (substation patrol robot), [sarasvati](https://github.com/DarmawanRobotics/sarasvati) (autonomous surface vessel) | ROS 2, C++, TypeScript |
-| **Docs** | [robotics-docs](https://github.com/DarmawanRobotics/robotics-docs), [hardware-docs-library](https://github.com/DarmawanRobotics/hardware-docs-library) | Next.js, MDX |
+| **[Pashupati](https://github.com/DarmawanRobotics/Pashupati)** | Autonomous patrol and inspection stack for quadruped robots: LiDAR teach and repeat, obstacle avoidance, on-robot AI inspection and people counting, driven from a handheld controller and commanded from [NETRA](https://github.com/DarmawanWeb/Netra) | ROS 2 Humble, Python, C++ |
 
 ## Metrics
 
