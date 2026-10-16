@@ -21,14 +21,10 @@ controllers and on-robot AI perception, built and run in Indonesia.**
 
 ## Metrics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DarmawanRobotics/.github/main/metrics/overview.svg" alt="Overview" width="49%">
-  <img src="https://raw.githubusercontent.com/DarmawanRobotics/.github/main/metrics/languages.svg" alt="Languages" width="49%">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DarmawanRobotics/.github/main/metrics/repositories.svg" alt="Featured repositories" width="49%">
-  <img src="https://raw.githubusercontent.com/DarmawanRobotics/.github/main/metrics/lines.svg" alt="Lines of code" width="49%">
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/DarmawanRobotics/.github/main/metrics/commits.svg" alt="Commits" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DarmawanRobotics/.github/main/metrics/overview.svg" alt="Overview" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DarmawanRobotics/.github/main/metrics/languages.svg" alt="Languages" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/DarmawanRobotics/.github/main/metrics/lines.svg" alt="Lines of code" width="100%"></p>
 
 <p align="center"><sub>Rendered every 12 hours by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> from this organization's repositories.</sub></p>
 
