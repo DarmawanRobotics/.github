@@ -25,19 +25,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">DarmawanRobotics/molly-dashboard</span>
+                            <span class="diff-handle">DarmawanRobotics/Molly</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">DarmawanRobotics/PashupatiController</span>
+                            <span class="diff-handle">DarmawanRobotics/Ares</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">DarmawanRobotics/esp32-px4-actuator-controller</span>
+                            <span class="diff-handle">DarmawanRobotics/MollyController</span>
                         </div>
                     </section>
                     <section>
@@ -57,11 +57,11 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +20k</span>
-                                <span class="deleted"> -8.34k</span>
+                                <span class="added"> +33.4k</span>
+                                <span class="deleted">   -703</span>
                             </div>
                             <span> </span>
                         </div>
@@ -72,8 +72,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +11.5k</span>
-                                <span class="deleted"> -1.84k</span>
+                                <span class="added"> +31.2k</span>
+                                <span class="deleted"> -1.32k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -84,8 +84,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +7.16k</span>
-                                <span class="deleted"> -1.30k</span>
+                                <span class="added"> +14.4k</span>
+                                <span class="deleted"> -2.30k</span>
                             </div>
                             <span> </span>
                         </div>
