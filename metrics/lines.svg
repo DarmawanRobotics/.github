@@ -60,8 +60,8 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +33.4k</span>
-                                <span class="deleted">   -703</span>
+                                <span class="added"> +33.7k</span>
+                                <span class="deleted">   -772</span>
                             </div>
                             <span> </span>
                         </div>
@@ -84,7 +84,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +14.4k</span>
+                                <span class="added"> +14.5k</span>
                                 <span class="deleted"> -2.30k</span>
                             </div>
                             <span> </span>
